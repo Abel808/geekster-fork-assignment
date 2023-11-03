@@ -5,7 +5,7 @@
 - banana
 ---
 ## vegetables
--tomato
--poato
-  -sweet potato
+- tomato
+- poato
+  - sweet potato
 ---
